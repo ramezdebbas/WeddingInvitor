@@ -1,0 +1,11 @@
+Wedding Inviter:
+Description:
+Wedding Inviter in an app where you can find the best wedding invitation according your suitable personality for whom you want invite, the best collection of invitation cards is available in this app, you can share it with mail or SkyDrive. 
+
+Features:
+•	Fully research based app on How to send invitations for wedding invitations to loved one.
+•	Integrated Share by using SkyDrive or Mail App of Windows 8.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	 Live Tiles(Locally & Remotely)
+•	Searching feature.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing).
